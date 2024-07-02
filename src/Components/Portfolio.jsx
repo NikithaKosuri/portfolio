@@ -31,28 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Personal Portfolio",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a responsive portfolio website featuring Home, About, Work, and Contact sections.The Work section includes project cards with pop-up details and a navigational bar for filtering projects by All and Latest.The Contact section provides direct links to email and WhatsApp, and a contact form integrated with EmailJS for users without accounts. The form includes validation and displays success or error messages upon submission",
+    url: "https://nikithakosuri.github.io/myPortfolio/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "An Organic Grocery Store",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Developed an e-commerce site. The homepage showcases promotional slides and banners with offers, while the About section highlights farm field images and their work.The footer provides quick links, additional resources, and social media integration for enhanced user engagement. Implemented interactive elements and a newsletter subscription form to enhance user engagement.I don't have laptop provision while doing this project, I managed my tasks with mobile app version. Crafting CSS for the About section posed layout and visual challenges, requiring careful attention to detail for responsiveness.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
